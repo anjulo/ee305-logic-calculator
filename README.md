@@ -1,4 +1,4 @@
-# ee305-logic-calculator
+# EE305-logic-calculator
 
 
 This is a simple MultiSim logic calculator that performs two logic operations, OR and XOR, with two 3-bit numbers. 
