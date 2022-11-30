@@ -5,4 +5,5 @@ This is a simple MultiSim logic calculator that performs two logic operations, O
 The input is two 3-bit binary operands by pressing 0/1 buttons. When we input operands, each operand is displayed on LED as 3-bit binary number. An order of inputs is as follows; first operand, an operator, second operand, and equal (=) button. 
 When we press the equal button, the calculated result is displayed on the 7-segment display as 1-digit decimal number. 
 
-![alt text](model_picture.png)
+* Below is a picure of what the design looks like.
+![circuit design](model_picture.png)
